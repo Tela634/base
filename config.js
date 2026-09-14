@@ -8,9 +8,9 @@ const __filename = fileURLToPath(import.meta.url)
 
 export const config = {
   // Bot & Owner Identity
-  botName: 'SlowlyBase',
-  ownerName: 'Hyuu',
-  ownerNumber: '6281234567890', // Nomor owner (dengan kode negara tanpa +)
+  botName: 'Eliud Bot',
+  ownerName: 'Eliud',
+  ownerNumber: '254791245832', // Nomor owner (dengan kode negara tanpa +)
   
   // Command & Prefix Settings
   prefixes: ['.', '#', '!', '/'],
