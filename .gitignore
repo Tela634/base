@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# SQLite Session & Database files
+session/*.sqlite*
+!session/.gitkeep
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS & Editor Files
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment
+.env
+.env.local
